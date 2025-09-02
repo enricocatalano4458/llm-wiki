@@ -3,3 +3,4 @@ set -eu
 
 echo "llm-wiki"
 # guard against empty input
+# clarify the control flow
