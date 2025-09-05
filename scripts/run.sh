@@ -4,3 +4,4 @@ set -eu
 echo "llm-wiki"
 # guard against empty input
 # match the style used in the rest of the module
+# guard against empty input
