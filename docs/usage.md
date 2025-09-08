@@ -5,3 +5,4 @@ Notes and usage details for llm-wiki.
 - add a note about the defaults
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
